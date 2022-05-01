@@ -2,7 +2,7 @@
 detekt = "1.18.1"
 
 [plugins]
-detekt = { id = "io.gitlab.arturbosch.detekt", version = "1.18.1" }
+detekt = { id = "io.gitlab.arturbosch.detekt", version = "1.17.1" }
 
 [libraries]
 detekt-formatting = { module = "io.gitlab.arturbosch.detekt:detekt-formatting", version.ref = "detekt" }
