@@ -5,4 +5,4 @@ detekt = "1.18.1"
 detekt = { id = "io.gitlab.arturbosch.detekt", version.ref = "detekt" }
 
 [libraries]
-detekt-formatting = { module = "io.gitlab.arturbosch.detekt:detekt-formatting", version = "1.18.1" }
+detekt-formatting = { module = "io.gitlab.arturbosch.detekt:detekt-formatting", version.ref = "detekt" }
