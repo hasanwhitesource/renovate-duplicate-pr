@@ -14,5 +14,5 @@ detekt-formatting = { module = "io.gitlab.arturbosch.detekt:detekt-formatting", 
 groovy = ["groovy-core", "groovy-json", "groovy-nio"]
 
 [plugins]
-jmh = { id = "me.champeau.jmh", version="0.6.5" }
+jmh = { id = "me.champeau.jmh", version="0.6.6" }
 detekt = { id = "io.gitlab.arturbosch.detekt", version.ref="detekt" }
